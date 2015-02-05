@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package cn.ac.ucas.helloword;
 
 /**
@@ -11,7 +10,9 @@ package cn.ac.ucas.helloword;
  * @author zwl
  */
 public class HelloWord {
+
     public static void main(String[] args) {
 	System.out.println("hello world");
+	System.out.println("hello again");
     }
 }
